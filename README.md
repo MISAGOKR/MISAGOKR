@@ -24,5 +24,10 @@ Here are some ideas to get you started:
     <h4>My</h1>
     <a href="https://www.youtube.com/@misagokr"><img src="https://img.shields.io/badge/미사고-red?style=flat-square&logo=YOUTUBE&logoColor=white"/></a>
     <a href="https://velog.io/@misagokr"><img src="https://img.shields.io/badge/미사고-mint?style=flat-square&logo=velog&logoColor=white"/></a>
+    <h4>Using</h1>
+    <a href="https://apple.com"><img src="https://img.shields.io/badge/APPLE-black?style=flat-square&logo=Apple&logoColor=white"/></a>
+    <a href="https://samsung.com"><img src="https://img.shields.io/badge/SAMSUNG-blue?style=flat-square&logo=Samsung&logoColor=white"/></a>
+    <a href="https://nike.com"><img src="https://img.shields.io/badge/NIKE-white?style=flat-square&logo=nike&logoColor=black"/></a>
+    <a href="https://adidas.com"><img src="https://img.shields.io/badge/ADIDAS-gray?style=flat-square&logo=adidas&logoColor=black"/></a>
 </div>
 

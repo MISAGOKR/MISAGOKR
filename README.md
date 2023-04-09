@@ -23,5 +23,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>
     <h4>My</h1>
     <a href="https://www.youtube.com/@misagokr"><img src="https://img.shields.io/badge/미사고-red?style=flat-square&logo=YOUTUBE&logoColor=white"/></a>
+    <a href="https://velog.io/@misagokr"><img src="https://img.shields.io/badge/미사고-mint?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
 

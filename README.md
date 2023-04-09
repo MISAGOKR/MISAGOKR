@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
+    <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-grean?style=flat-square&logo=Django&logoColor=white"/></a>
 </div>
 

@@ -19,5 +19,6 @@ Here are some ideas to get you started:
     <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=CSS3&logoColor=white"/>
     <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
 

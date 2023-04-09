@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MiSaGo&fontSize=90)
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MiSaGo&fontSize=90" />
     <h4>LEARN&DO</h1>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
     <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/></a>

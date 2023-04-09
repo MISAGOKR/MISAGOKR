@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
+<div align="center">
+    <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
+</div>
+

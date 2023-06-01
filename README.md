@@ -18,10 +18,8 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MiSaGo&fontSize=90" />
     <h4>LEARN&DO</h1>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
-    <a href="https://www.djangoproject.com"><img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=CSS3&logoColor=white"/>
-    <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
     <h4>My</h1>
     <a href="https://www.youtube.com/@misagokr"><img src="https://img.shields.io/badge/미사고-red?style=flat-square&logo=YOUTUBE&logoColor=white"/></a>
     <a href="https://velog.io/@misagokr"><img src="https://img.shields.io/badge/미사고-mint?style=flat-square&logo=velog&logoColor=white"/></a>

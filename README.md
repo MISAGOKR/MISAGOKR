@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=MiSaGo&fontSize=90" />
     <h4>LEARN&DO</h1>
     <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
     <h4>My</h1>
     <a href="https://www.youtube.com/@misagokr"><img src="https://img.shields.io/badge/미사고-red?style=flat-square&logo=YOUTUBE&logoColor=white"/></a>
